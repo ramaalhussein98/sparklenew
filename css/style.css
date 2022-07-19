@@ -206,13 +206,9 @@ body {
   }
 }
 
-a {
+a, a:hover, a:focus, a:active {
   text-decoration: none;
-}
-
-a:hover {
-  text-decoration: none;
-  cursor: pointer;
+  color: inherit;
 }
 
 .home-ul {

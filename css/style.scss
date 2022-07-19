@@ -265,15 +265,9 @@ body {
         width: 13%;
     }
 }
-a {
-    // color: #0060B6;
+a, a:hover, a:focus, a:active {
     text-decoration: none;
-}
-
-a:hover {
-    // color:#00A0C6; 
-    text-decoration:none; 
-    cursor:pointer;  
+    color: inherit;
 }
 .home-ul {
     position: absolute;
