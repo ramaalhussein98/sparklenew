@@ -74,7 +74,7 @@ body {
 }
 .main .headingSparkle1 {
   color: #C1A46C;
-  background-image: url(../SVG/brush2.svg);
+  background-image: url(../svg/brush2.svg);
   background-repeat: no-repeat;
   font-size: 9rem;
   padding-left: 6rem;
@@ -145,7 +145,7 @@ body {
   color: #A77969;
   position: absolute;
   font-size: 7vw;
-  background-image: url(../SVG/brush2.svg);
+  background-image: url(../svg/brush2.svg);
   top: 5rem;
   left: 5%;
   background-repeat: no-repeat;
@@ -367,7 +367,7 @@ body {
 
 .contactus {
   color: #AD906C;
-  background-image: url(../SVG/brush2.svg);
+  background-image: url(../svg/brush2.svg);
   background-repeat: no-repeat;
   font-size: 5rem;
   padding-bottom: 1rem;
@@ -408,7 +408,7 @@ body {
 
 .dermaheading {
   color: #C1A46C;
-  background-image: url(../SVG/brush2.svg);
+  background-image: url(../svg/brush2.svg);
   background-repeat: no-repeat;
   font-size: 4rem;
   padding-bottom: 0rem;
@@ -440,7 +440,7 @@ body {
 
 .lazerheading {
   color: #C1A46C;
-  background-image: url(../SVG/brush2.svg);
+  background-image: url(../svg/brush2.svg);
   background-repeat: no-repeat;
   font-size: 4rem;
   padding-bottom: 0rem;
@@ -686,7 +686,7 @@ body {
 }
 
 .serviceExplain::before {
-  content: url("../SVG/leaves4.svg");
+  content: url("../svg/leaves4.svg");
   width: 12rem;
   position: absolute;
   left: -44px;
@@ -741,7 +741,7 @@ body {
 }
 
 .serviceExplain3::before {
-  content: url("../SVG/keaves2.svg");
+  content: url("../svg/keaves2.svg");
   width: 12rem;
   position: absolute;
   left: -44px;
@@ -779,7 +779,7 @@ body {
 }
 
 .secoundservics::before {
-  content: url("../SVG/leaves3.svg");
+  content: url("../svg/leaves3.svg");
   position: absolute;
   width: 8rem;
   right: 45px;
@@ -818,7 +818,7 @@ body {
 }
 
 .serviceExplain4::before {
-  content: url("../SVG/leaves1.svg");
+  content: url("../svg/leaves1.svg");
   position: absolute;
   width: 8rem;
   right: 45px;
@@ -1016,12 +1016,12 @@ body {
 }
 @media (min-width: 577px) and (max-width: 767.98px) {
   .levant1 {
-    width: 60%;
+    width: 40%;
   }
 }
 @media (max-width: 576px) {
   .levant1 {
-    width: 70%;
+    width: 40%;
   }
 }
 
@@ -1089,7 +1089,7 @@ body {
   color: #A77969;
   font-size: 5rem;
   padding-left: 1rem;
-  background-image: url(../SVG/bruchrose.svg);
+  background-image: url(../svg/bruchrose.svg);
   background-repeat: no-repeat;
   font-family: "light";
   padding-bottom: 2rem;
@@ -1121,7 +1121,7 @@ body {
   color: #A77969;
   font-size: 5rem;
   padding-left: 1rem;
-  background-image: url(../SVG/bruchrose.svg);
+  background-image: url(../svg/bruchrose.svg);
   background-repeat: no-repeat;
   font-family: "light";
   padding-bottom: 2rem;
@@ -1325,7 +1325,7 @@ body {
 
 .ourser {
   color: #C1A46C;
-  background-image: url(../SVG/brush2.svg);
+  background-image: url(../svg/brush2.svg);
   background-repeat: no-repeat;
   font-size: 5rem;
   padding-bottom: 1rem;
